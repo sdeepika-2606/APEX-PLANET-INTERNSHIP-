@@ -36,7 +36,11 @@ Industry-oriented Internship Training
 🎯 Internship Objective
 
 1.Build strong cybersecurity fundamentals
+
 2.Gain hands-on experience in penetration testing
+
 3.Understand real-world attack vectors & defenses
+
 4.Learn ethical hacking tools and methodologies
+
 5.Develop professional security documentation & reports
